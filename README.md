@@ -37,7 +37,7 @@ Make sure the following packages are installed:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/Ajith-ajay/Iris-Flower-Classification
+git clone https://github.com/Ajith-ajay/Iris-Flower-Classification.git
 cd Iris-Flower-Classification
 ```
 
@@ -46,14 +46,6 @@ cd Iris-Flower-Classification
     1.Python
     2.Jupyter
     3.sk-learn
-
-
-## Installation Instruction
-
-**installing IDE**
-
-- *install [Python](https://www.python.org/downloads/windows/)*
-- *install [Visual Studio Code](https://code.visualstudio.com/download)*
 
 **Create and Activate a Virtual Environment**
 
@@ -97,17 +89,6 @@ Iris-Flower-Classification/
 └── env/                              # Virtual environment (optional)
 └── iris.csv                          # dataset for training
 ```
-
-## Snaps
-**Index**
-![index.html](https://github.com/user-attachments/assets/9d0b1243-e8c8-490c-abe6-df19d04a7d5b)
-**Login**
-![login.html](https://github.com/user-attachments/assets/b3a194d6-70ef-429e-8b32-a139e32962ff)
-**Sign-up**
-![sign-up.html](https://github.com/user-attachments/assets/6b5303f2-e150-485e-8bae-7d49920c86e5)
-**Profile**
-![profile.html](https://github.com/user-attachments/assets/fb211bb0-74fb-45d2-83f8-f05d2194e221)
-
 
 **📄 License**
 This project is open-source and available under the MIT License.
