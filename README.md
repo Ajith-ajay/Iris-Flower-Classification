@@ -53,6 +53,7 @@ cd Iris-Flower-Classification
 python -m venv env  # where env is environment name
 ```
 **Activate the Environment**
+
 For windows
 ```bash
 \env\scripts\activate
