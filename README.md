@@ -50,7 +50,7 @@ cd Iris-Flower-Classification
 **Create and Activate a Virtual Environment**
 
 ```bash
-python -m venv env  # where ene is environment name
+python -m venv env  # where env is environment name
 ```
 **Activate the Environment**
 For windows
